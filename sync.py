@@ -58,10 +58,7 @@ def convert_movies_to_items(movies):
     items = []
 
     for movie in movies:
-        # Only include movies that have been downloaded
-        if not movie.get('hasFile', False):
-            continue
-
+        # Include ALL movies in library (not just downloaded)
         item = {
             "type": "movie",
             "movie": {
@@ -87,10 +84,7 @@ def convert_shows_to_items(shows):
     items = []
 
     for show in shows:
-        # Only include shows that have at least one episode downloaded
-        if show.get('episodeFileCount', 0) == 0:
-            continue
-
+        # Include ALL shows in library (not just with episodes)
         item = {
             "type": "show",
             "show": {
@@ -100,7 +94,7 @@ def convert_shows_to_items(shows):
             }
         }
 
-        # Add available IDs
+        # Add available IDs - check different possible field names
         if show.get('tvdbId'):
             item["show"]["ids"]["tvdb"] = show['tvdbId']
         if show.get('imdbId'):
@@ -141,14 +135,20 @@ def main():
     shows = get_sonarr_shows()
     print(f"Found {len(shows)} shows in Sonarr")
 
+    # Debug: Print first few items to check structure
+    if movies:
+        print("First movie sample:", json.dumps(movies[0], indent=2)[:500])
+    if shows:
+        print("First show sample:", json.dumps(shows[0], indent=2)[:500])
+
     # Convert to list items
     print("Converting movies to list format...")
     movie_items = convert_movies_to_items(movies)
-    print(f"Added {len(movie_items)} downloaded movies")
+    print(f"Added {len(movie_items)} movies")
 
     print("Converting shows to list format...")
     show_items = convert_shows_to_items(shows)
-    print(f"Added {len(show_items)} shows with episodes")
+    print(f"Added {len(show_items)} shows")
 
     # Create the combined list (this replaces the entire list each time)
     print("Creating combined list...")
