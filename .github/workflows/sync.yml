@@ -1,0 +1,40 @@
+name: Sync Radarr/Sonarr to List
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Manual trigger button
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Sync libraries
+      env:
+        RADARR_URL: ${{ secrets.RADARR_URL }}
+        RADARR_API_KEY: ${{ secrets.RADARR_API_KEY }}
+        SONARR_URL: ${{ secrets.SONARR_URL }}
+        SONARR_API_KEY: ${{ secrets.SONARR_API_KEY }}
+      run: python sync.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add list.json
+        git commit -m "Update media library list $(date)" || exit 0
+        git push
