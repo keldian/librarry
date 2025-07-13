@@ -1,0 +1,561 @@
+{
+  "name": "My Media Library",
+  "description": "Auto-synced from Radarr and Sonarr on 2025-07-13 18:54:17",
+  "stats": {
+    "movies": 50,
+    "shows": 0,
+    "total": 50
+  },
+  "items": [
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Aliens",
+        "year": 1986,
+        "ids": {
+          "tmdb": 679,
+          "imdb": "tt0090605"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Dream House",
+        "year": 2011,
+        "ids": {
+          "tmdb": 69668,
+          "imdb": "tt1462041"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Kaamelott: The First Chapter",
+        "year": 2021,
+        "ids": {
+          "tmdb": 577242,
+          "imdb": "tt9844322"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Oldboy",
+        "year": 2003,
+        "ids": {
+          "tmdb": 670,
+          "imdb": "tt0364569"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Dune: Part Two",
+        "year": 2024,
+        "ids": {
+          "tmdb": 693134,
+          "imdb": "tt15239678"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "ids": {
+          "tmdb": 22,
+          "imdb": "tt0325980"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "year": 2006,
+        "ids": {
+          "tmdb": 58,
+          "imdb": "tt0383574"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Pirates of the Caribbean: At World's End",
+        "year": 2007,
+        "ids": {
+          "tmdb": 285,
+          "imdb": "tt0449088"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Three Musketeers: D'Artagnan",
+        "year": 2023,
+        "ids": {
+          "tmdb": 796185,
+          "imdb": "tt12672536"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Three Musketeers: Milady",
+        "year": 2023,
+        "ids": {
+          "tmdb": 845111,
+          "imdb": "tt12672620"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Executive Decision",
+        "year": 1996,
+        "ids": {
+          "tmdb": 2320,
+          "imdb": "tt0116253"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Breadwinner",
+        "year": 2017,
+        "ids": {
+          "tmdb": 435129,
+          "imdb": "tt3901826"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Alien: Romulus",
+        "year": 2024,
+        "ids": {
+          "tmdb": 945961,
+          "imdb": "tt18412256"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Coraline",
+        "year": 2009,
+        "ids": {
+          "tmdb": 14836,
+          "imdb": "tt0327597"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Angel Heart",
+        "year": 1987,
+        "ids": {
+          "tmdb": 635,
+          "imdb": "tt0092563"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "New Nightmare",
+        "year": 1994,
+        "ids": {
+          "tmdb": 11596,
+          "imdb": "tt0111686"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Sleeping Dogs",
+        "year": 2024,
+        "ids": {
+          "tmdb": 978592,
+          "imdb": "tt8542964"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Twisters",
+        "year": 2024,
+        "ids": {
+          "tmdb": 718821,
+          "imdb": "tt12584954"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Wolf Man",
+        "year": 2025,
+        "ids": {
+          "tmdb": 710295,
+          "imdb": "tt4216984"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Mickey 17",
+        "year": 2025,
+        "ids": {
+          "tmdb": 696506,
+          "imdb": "tt12299608"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Immaculate",
+        "year": 2024,
+        "ids": {
+          "tmdb": 1041613,
+          "imdb": "tt23137390"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Deadpool & Wolverine",
+        "year": 2024,
+        "ids": {
+          "tmdb": 533535,
+          "imdb": "tt6263850"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Heretic",
+        "year": 2024,
+        "ids": {
+          "tmdb": 1138194,
+          "imdb": "tt28015403"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Oddity",
+        "year": 2024,
+        "ids": {
+          "tmdb": 1216191,
+          "imdb": "tt26470109"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "April and the Extraordinary World",
+        "year": 2015,
+        "ids": {
+          "tmdb": 340357,
+          "imdb": "tt3422078"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "White Bird",
+        "year": 2023,
+        "ids": {
+          "tmdb": 779816,
+          "imdb": "tt11068094"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Transformers One",
+        "year": 2024,
+        "ids": {
+          "tmdb": 698687,
+          "imdb": "tt8864596"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Flow",
+        "year": 2024,
+        "ids": {
+          "tmdb": 823219,
+          "imdb": "tt4772188"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "ids": {
+          "tmdb": 641,
+          "imdb": "tt0180093"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "year": 2024,
+        "ids": {
+          "tmdb": 839033,
+          "imdb": "tt14824600"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Moana 2",
+        "year": 2024,
+        "ids": {
+          "tmdb": 1241982,
+          "imdb": "tt13622970"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Nosferatu",
+        "year": 2024,
+        "ids": {
+          "tmdb": 426063,
+          "imdb": "tt5040012"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Companion",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1084199,
+          "imdb": "tt26584495"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Brutalist",
+        "year": 2024,
+        "ids": {
+          "tmdb": 549509,
+          "imdb": "tt8999762"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Amateur",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1087891,
+          "imdb": "tt0899043"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Black Bag",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1233575,
+          "imdb": "tt30988739"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Only the Brave",
+        "year": 2017,
+        "ids": {
+          "tmdb": 395991,
+          "imdb": "tt3829920"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "A Real Pain",
+        "year": 2024,
+        "ids": {
+          "tmdb": 1013850,
+          "imdb": "tt21823606"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Death of a Unicorn",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1153714,
+          "imdb": "tt28443655"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+        "year": 2024,
+        "ids": {
+          "tmdb": 870360,
+          "imdb": "tt15352542"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Sinners",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1233413,
+          "imdb": "tt31193180"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Fear Below",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1232933,
+          "imdb": "tt13098590"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Thunderbolts*",
+        "year": 2025,
+        "ids": {
+          "tmdb": 986056,
+          "imdb": "tt20969586"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Final Destination Bloodlines",
+        "year": 2025,
+        "ids": {
+          "tmdb": 574475,
+          "imdb": "tt9619824"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Clown in a Cornfield",
+        "year": 2025,
+        "ids": {
+          "tmdb": 713364,
+          "imdb": "tt23060698"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The King of Kings",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1181107,
+          "imdb": "tt7967302"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Fight or Flight",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1212855,
+          "imdb": "tt13652286"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Diablo",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1127110,
+          "imdb": "tt27757546"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Knox Goes Away",
+        "year": 2024,
+        "ids": {
+          "tmdb": 972614,
+          "imdb": "tt20115766"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Bring Her Back",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1151031,
+          "imdb": "tt32246771"
+        }
+      }
+    }
+  ]
+}
