@@ -52,76 +52,43 @@ def get_sonarr_shows():
         print(f"Error fetching from Sonarr: {e}")
         return []
 
-
 def convert_movies_to_items(movies):
-    """Convert Radarr movies to list items"""
     items = []
-
     for movie in movies:
-        # Include ALL movies in library (not just downloaded)
-        item = {
-            "type": "movie",
-            "movie": {
-                "title": movie.get('title', 'Unknown'),
-                "year": movie.get('year', 0),
-                "ids": {}
-            }
-        }
-
-        # Add available IDs
+        ids = {}
         if movie.get('tmdbId'):
-            item["movie"]["ids"]["tmdb"] = movie['tmdbId']
+            ids["tmdb"] = movie['tmdbId']
         if movie.get('imdbId'):
-            item["movie"]["ids"]["imdb"] = movie['imdbId']
-
-        items.append(item)
-
+            ids["imdb"] = movie['imdbId']
+        if ids:
+            items.append({
+                "type": "movie",
+                "movie": {"ids": ids}
+            })
     return items
-
 
 def convert_shows_to_items(shows):
-    """Convert Sonarr shows to list items"""
     items = []
-
     for show in shows:
-        # Include ALL shows in library (not just with episodes)
-        item = {
-            "type": "show",
-            "show": {
-                "title": show.get('title', 'Unknown'),
-                "year": show.get('year', 0),
-                "ids": {}
-            }
-        }
-
-        # Add available IDs - check different possible field names
+        ids = {}
         if show.get('tvdbId'):
-            item["show"]["ids"]["tvdb"] = show['tvdbId']
+            ids["tvdb"] = show['tvdbId']
         if show.get('imdbId'):
-            item["show"]["ids"]["imdb"] = show['imdbId']
+            ids["imdb"] = show['imdbId']
         if show.get('tmdbId'):
-            item["show"]["ids"]["tmdb"] = show['tmdbId']
-
-        items.append(item)
-
+            ids["tmdb"] = show['tmdbId']
+        if ids:
+            items.append({
+                "type": "show",
+                "show": {"ids": ids}
+            })
     return items
 
-
 def create_combined_list(movie_items, show_items):
-    """Create the final combined list"""
     all_items = movie_items + show_items
-
     return {
-        "name": "My Media Library",
-        "description": f"Auto-synced from Radarr and Sonarr on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
-        "stats": {
-            "movies": len(movie_items),
-            "shows": len(show_items),
-            "total": len(all_items)
-        },
         "items": all_items
     }
-
 
 def main():
     print("Starting sync process...")
@@ -150,7 +117,7 @@ def main():
     show_items = convert_shows_to_items(shows)
     print(f"Added {len(show_items)} shows")
 
-    # Create the combined list (this replaces the entire list each time)
+    # Create the combined list (Trakt-compatible)
     print("Creating combined list...")
     combined_list = create_combined_list(movie_items, show_items)
 
@@ -159,9 +126,9 @@ def main():
     with open('list.json', 'w') as f:
         json.dump(combined_list, f, indent=2)
 
-    print(f"Sync complete! Final list contains {combined_list['stats']['total']} items")
-    print(f"  - Movies: {combined_list['stats']['movies']}")
-    print(f"  - Shows: {combined_list['stats']['shows']}")
+    print(f"Sync complete! Final list contains {len(combined_list['items'])} items")
+    print(f"  - Movies: {len(movie_items)}")
+    print(f"  - Shows: {len(show_items)}")
 
 
 if __name__ == "__main__":
