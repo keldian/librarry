@@ -1,953 +1,317 @@
-{
-  "items": [
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 8078,
-          "imdb": "tt0118583"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 679,
-          "imdb": "tt0090605"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 69668,
-          "imdb": "tt1462041"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 577242,
-          "imdb": "tt9844322"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 425911,
-          "imdb": "tt0455856"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 339727,
-          "imdb": "tt1235529"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 412012,
-          "imdb": "tt5765844"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 421892,
-          "imdb": "tt6113186"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 374771,
-          "imdb": "tt5218270"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 340023,
-          "imdb": "tt4575512"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 541783
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 423968,
-          "imdb": "tt1117392"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 670,
-          "imdb": "tt0364569"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 575265,
-          "imdb": "tt9603208"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 693134,
-          "imdb": "tt15239678"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 463828,
-          "imdb": "tt1830809"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 848371
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 22,
-          "imdb": "tt0325980"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 58,
-          "imdb": "tt0383574"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 435615,
-          "imdb": "tt5918982"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 285,
-          "imdb": "tt0449088"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 797716,
-          "imdb": "tt4671296"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 976976,
-          "imdb": "tt20255394"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1022787,
-          "imdb": "tt4900148"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 916402,
-          "imdb": "tt0134933"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 796185,
-          "imdb": "tt12672536"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 845111,
-          "imdb": "tt12672620"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 36430,
-          "imdb": "tt0307507"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 2320,
-          "imdb": "tt0116253"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 435129,
-          "imdb": "tt3901826"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 945961,
-          "imdb": "tt18412256"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 14836,
-          "imdb": "tt0327597"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 635,
-          "imdb": "tt0092563"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 11596,
-          "imdb": "tt0111686"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 904083,
-          "imdb": "tt0914843"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1170608,
-          "imdb": "tt31378509"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 978592,
-          "imdb": "tt8542964"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 718821,
-          "imdb": "tt12584954"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1207360,
-          "imdb": "tt30414742"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 710295,
-          "imdb": "tt4216984"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 696506,
-          "imdb": "tt12299608"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 806704,
-          "imdb": "tt19850008"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1041613,
-          "imdb": "tt23137390"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1014268
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 533535,
-          "imdb": "tt6263850"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 451079,
-          "imdb": "tt4809834"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1138194,
-          "imdb": "tt28015403"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1216191,
-          "imdb": "tt26470109"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1087192,
-          "imdb": "tt26743210"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 340357,
-          "imdb": "tt3422078"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 779816,
-          "imdb": "tt11068094"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 698687,
-          "imdb": "tt8864596"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 823219,
-          "imdb": "tt4772188"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1026222,
-          "imdb": "tt9024562"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 641,
-          "imdb": "tt0180093"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 839033,
-          "imdb": "tt14824600"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1241982,
-          "imdb": "tt13622970"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 426063,
-          "imdb": "tt5040012"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1084199,
-          "imdb": "tt26584495"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 549509,
-          "imdb": "tt8999762"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1087891,
-          "imdb": "tt0899043"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1233575,
-          "imdb": "tt30988739"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1090869,
-          "imdb": "tt32328541"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 395991,
-          "imdb": "tt3829920"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1013850,
-          "imdb": "tt21823606"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1130730,
-          "imdb": "tt28000275"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1153714,
-          "imdb": "tt28443655"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1076902
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1076897,
-          "imdb": "tt34624872"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 870360,
-          "imdb": "tt15352542"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1275779,
-          "imdb": "tt15047880"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1233413,
-          "imdb": "tt31193180"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1232933,
-          "imdb": "tt13098590"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 330459,
-          "imdb": "tt3748528"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 986056,
-          "imdb": "tt20969586"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 11,
-          "imdb": "tt0076759"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1084244,
-          "imdb": "tt29355505"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 574475,
-          "imdb": "tt9619824"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 911430,
-          "imdb": "tt16311594"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1038392,
-          "imdb": "tt22898462"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 842924,
-          "imdb": "tt12908150"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1234821,
-          "imdb": "tt31036941"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 713364,
-          "imdb": "tt23060698"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1181107,
-          "imdb": "tt7967302"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1212855,
-          "imdb": "tt13652286"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 516729,
-          "imdb": "tt5822536"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1417668,
-          "imdb": "tt28069611"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1246049,
-          "imdb": "tt31434030"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1127110,
-          "imdb": "tt27757546"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1100988,
-          "imdb": "tt10548174"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 972614,
-          "imdb": "tt20115766"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1151031,
-          "imdb": "tt32246771"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1306322,
-          "imdb": "tt32659463"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 687163,
-          "imdb": "tt12042730"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 812583,
-          "imdb": "tt14364480"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1242898,
-          "imdb": "tt31227572"
-        }
-      }
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "tmdb": 1139087,
-          "imdb": "tt28035641"
-        }
-      }
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "tvdb": 296762,
-          "imdb": "tt0475784",
-          "tmdb": 63247
-        }
-      }
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "tvdb": 393189,
-          "imdb": "tt9253284",
-          "tmdb": 83867
-        }
-      }
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "tvdb": 421106,
-          "imdb": "tt20978970",
-          "tmdb": 215597
-        }
-      }
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "tvdb": 79175,
-          "imdb": "tt0441059",
-          "tmdb": 11466
-        }
-      }
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "tvdb": 392573,
-          "imdb": "tt2788316",
-          "tmdb": 126308
-        }
-      }
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "tvdb": 268581,
-          "imdb": "tt2548418",
-          "tmdb": 62717
-        }
-      }
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "tvdb": 458912,
-          "imdb": "tt13623632",
-          "tmdb": 157239
-        }
-      }
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "tvdb": 452595,
-          "imdb": "tt33043892",
-          "tmdb": 259909
-        }
-      }
-    }
-  ]
-}
+[
+  {
+    "tmdb_id": 8078
+  },
+  {
+    "tmdb_id": 679
+  },
+  {
+    "tmdb_id": 69668
+  },
+  {
+    "tmdb_id": 577242
+  },
+  {
+    "tmdb_id": 425911
+  },
+  {
+    "tmdb_id": 339727
+  },
+  {
+    "tmdb_id": 412012
+  },
+  {
+    "tmdb_id": 421892
+  },
+  {
+    "tmdb_id": 374771
+  },
+  {
+    "tmdb_id": 340023
+  },
+  {
+    "tmdb_id": 541783
+  },
+  {
+    "tmdb_id": 423968
+  },
+  {
+    "tmdb_id": 670
+  },
+  {
+    "tmdb_id": 575265
+  },
+  {
+    "tmdb_id": 693134
+  },
+  {
+    "tmdb_id": 463828
+  },
+  {
+    "tmdb_id": 848371
+  },
+  {
+    "tmdb_id": 22
+  },
+  {
+    "tmdb_id": 58
+  },
+  {
+    "tmdb_id": 435615
+  },
+  {
+    "tmdb_id": 285
+  },
+  {
+    "tmdb_id": 797716
+  },
+  {
+    "tmdb_id": 976976
+  },
+  {
+    "tmdb_id": 1022787
+  },
+  {
+    "tmdb_id": 916402
+  },
+  {
+    "tmdb_id": 796185
+  },
+  {
+    "tmdb_id": 845111
+  },
+  {
+    "tmdb_id": 36430
+  },
+  {
+    "tmdb_id": 2320
+  },
+  {
+    "tmdb_id": 435129
+  },
+  {
+    "tmdb_id": 945961
+  },
+  {
+    "tmdb_id": 14836
+  },
+  {
+    "tmdb_id": 635
+  },
+  {
+    "tmdb_id": 11596
+  },
+  {
+    "tmdb_id": 904083
+  },
+  {
+    "tmdb_id": 1170608
+  },
+  {
+    "tmdb_id": 978592
+  },
+  {
+    "tmdb_id": 718821
+  },
+  {
+    "tmdb_id": 1207360
+  },
+  {
+    "tmdb_id": 710295
+  },
+  {
+    "tmdb_id": 696506
+  },
+  {
+    "tmdb_id": 806704
+  },
+  {
+    "tmdb_id": 1041613
+  },
+  {
+    "tmdb_id": 1014268
+  },
+  {
+    "tmdb_id": 533535
+  },
+  {
+    "tmdb_id": 451079
+  },
+  {
+    "tmdb_id": 1138194
+  },
+  {
+    "tmdb_id": 1216191
+  },
+  {
+    "tmdb_id": 1087192
+  },
+  {
+    "tmdb_id": 340357
+  },
+  {
+    "tmdb_id": 779816
+  },
+  {
+    "tmdb_id": 698687
+  },
+  {
+    "tmdb_id": 823219
+  },
+  {
+    "tmdb_id": 1026222
+  },
+  {
+    "tmdb_id": 641
+  },
+  {
+    "tmdb_id": 839033
+  },
+  {
+    "tmdb_id": 1241982
+  },
+  {
+    "tmdb_id": 426063
+  },
+  {
+    "tmdb_id": 1084199
+  },
+  {
+    "tmdb_id": 549509
+  },
+  {
+    "tmdb_id": 1087891
+  },
+  {
+    "tmdb_id": 1233575
+  },
+  {
+    "tmdb_id": 1090869
+  },
+  {
+    "tmdb_id": 395991
+  },
+  {
+    "tmdb_id": 1013850
+  },
+  {
+    "tmdb_id": 1130730
+  },
+  {
+    "tmdb_id": 1153714
+  },
+  {
+    "tmdb_id": 1076902
+  },
+  {
+    "tmdb_id": 1076897
+  },
+  {
+    "tmdb_id": 870360
+  },
+  {
+    "tmdb_id": 1275779
+  },
+  {
+    "tmdb_id": 1233413
+  },
+  {
+    "tmdb_id": 1232933
+  },
+  {
+    "tmdb_id": 330459
+  },
+  {
+    "tmdb_id": 986056
+  },
+  {
+    "tmdb_id": 11
+  },
+  {
+    "tmdb_id": 1084244
+  },
+  {
+    "tmdb_id": 574475
+  },
+  {
+    "tmdb_id": 911430
+  },
+  {
+    "tmdb_id": 1038392
+  },
+  {
+    "tmdb_id": 842924
+  },
+  {
+    "tmdb_id": 1234821
+  },
+  {
+    "tmdb_id": 713364
+  },
+  {
+    "tmdb_id": 1181107
+  },
+  {
+    "tmdb_id": 1212855
+  },
+  {
+    "tmdb_id": 516729
+  },
+  {
+    "tmdb_id": 1417668
+  },
+  {
+    "tmdb_id": 1246049
+  },
+  {
+    "tmdb_id": 1127110
+  },
+  {
+    "tmdb_id": 1100988
+  },
+  {
+    "tmdb_id": 972614
+  },
+  {
+    "tmdb_id": 1151031
+  },
+  {
+    "tmdb_id": 1306322
+  },
+  {
+    "tmdb_id": 687163
+  },
+  {
+    "tmdb_id": 812583
+  },
+  {
+    "tmdb_id": 1242898
+  },
+  {
+    "tmdb_id": 1139087
+  },
+  {
+    "tmdb_id": 63247
+  },
+  {
+    "tmdb_id": 83867
+  },
+  {
+    "tmdb_id": 215597
+  },
+  {
+    "tmdb_id": 11466
+  },
+  {
+    "tmdb_id": 126308
+  },
+  {
+    "tmdb_id": 62717
+  },
+  {
+    "tmdb_id": 157239
+  },
+  {
+    "tmdb_id": 259909
+  }
+]
