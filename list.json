@@ -1,12 +1,23 @@
 {
   "name": "My Media Library",
-  "description": "Auto-synced from Radarr and Sonarr on 2025-07-13 18:54:17",
+  "description": "Auto-synced from Radarr and Sonarr on 2025-07-13 19:08:28",
   "stats": {
-    "movies": 50,
-    "shows": 0,
-    "total": 50
+    "movies": 97,
+    "shows": 8,
+    "total": 105
   },
   "items": [
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Alien Resurrection",
+        "year": 1997,
+        "ids": {
+          "tmdb": 8078,
+          "imdb": "tt0118583"
+        }
+      }
+    },
     {
       "type": "movie",
       "movie": {
@@ -43,6 +54,93 @@
     {
       "type": "movie",
       "movie": {
+        "title": "When Worlds Collide",
+        "year": 0,
+        "ids": {
+          "tmdb": 425911,
+          "imdb": "tt0455856"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Highlander",
+        "year": 0,
+        "ids": {
+          "tmdb": 339727,
+          "imdb": "tt1235529"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Kung Fury 2",
+        "year": 0,
+        "ids": {
+          "tmdb": 412012,
+          "imdb": "tt5765844"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Shrek 5",
+        "year": 2026,
+        "ids": {
+          "tmdb": 421892,
+          "imdb": "tt6113186"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Riddick: Furya",
+        "year": 0,
+        "ids": {
+          "tmdb": 374771,
+          "imdb": "tt5218270"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Mad Max: The Wasteland",
+        "year": 0,
+        "ids": {
+          "tmdb": 340023,
+          "imdb": "tt4575512"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Merlin",
+        "year": 0,
+        "ids": {
+          "tmdb": 541783
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Ark and the Aardvark",
+        "year": 0,
+        "ids": {
+          "tmdb": 423968,
+          "imdb": "tt1117392"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Oldboy",
         "year": 2003,
         "ids": {
@@ -54,11 +152,43 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Mission: Impossible - The Final Reckoning",
+        "year": 2025,
+        "ids": {
+          "tmdb": 575265,
+          "imdb": "tt9603208"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Dune: Part Two",
         "year": 2024,
         "ids": {
           "tmdb": 693134,
           "imdb": "tt15239678"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Spaceless",
+        "year": 0,
+        "ids": {
+          "tmdb": 463828,
+          "imdb": "tt1830809"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Gunpowder Milkshake 2",
+        "year": 0,
+        "ids": {
+          "tmdb": 848371
         }
       }
     },
@@ -87,11 +217,66 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Possessor",
+        "year": 2020,
+        "ids": {
+          "tmdb": 435615,
+          "imdb": "tt5918982"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Pirates of the Caribbean: At World's End",
         "year": 2007,
         "ids": {
           "tmdb": 285,
           "imdb": "tt0449088"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Magnificent Raiders of Dimension War One",
+        "year": 2025,
+        "ids": {
+          "tmdb": 797716,
+          "imdb": "tt4671296"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Wizards!",
+        "year": 0,
+        "ids": {
+          "tmdb": 976976,
+          "imdb": "tt20255394"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Elio",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1022787,
+          "imdb": "tt4900148"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Rendezvous with Rama",
+        "year": 0,
+        "ids": {
+          "tmdb": 916402,
+          "imdb": "tt0134933"
         }
       }
     },
@@ -114,6 +299,17 @@
         "ids": {
           "tmdb": 845111,
           "imdb": "tt12672620"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Stickup",
+        "year": 2002,
+        "ids": {
+          "tmdb": 36430,
+          "imdb": "tt0307507"
         }
       }
     },
@@ -186,6 +382,28 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Cleopatra",
+        "year": 0,
+        "ids": {
+          "tmdb": 904083,
+          "imdb": "tt0914843"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Dune: Part Three",
+        "year": 2026,
+        "ids": {
+          "tmdb": 1170608,
+          "imdb": "tt31378509"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Sleeping Dogs",
         "year": 2024,
         "ids": {
@@ -202,6 +420,17 @@
         "ids": {
           "tmdb": 718821,
           "imdb": "tt12584954"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Saw XI",
+        "year": 0,
+        "ids": {
+          "tmdb": 1207360,
+          "imdb": "tt30414742"
         }
       }
     },
@@ -230,6 +459,17 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Untitled The Batman Sequel",
+        "year": 2027,
+        "ids": {
+          "tmdb": 806704,
+          "imdb": "tt19850008"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Immaculate",
         "year": 2024,
         "ids": {
@@ -241,11 +481,32 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Untitled Annabelle Film",
+        "year": 0,
+        "ids": {
+          "tmdb": 1014268
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Deadpool & Wolverine",
         "year": 2024,
         "ids": {
           "tmdb": 533535,
           "imdb": "tt6263850"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Micro",
+        "year": 0,
+        "ids": {
+          "tmdb": 451079,
+          "imdb": "tt4809834"
         }
       }
     },
@@ -268,6 +529,17 @@
         "ids": {
           "tmdb": 1216191,
           "imdb": "tt26470109"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "How to Train Your Dragon",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1087192,
+          "imdb": "tt26743210"
         }
       }
     },
@@ -312,6 +584,17 @@
         "ids": {
           "tmdb": 823219,
           "imdb": "tt4772188"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Saint Clare",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1026222,
+          "imdb": "tt9024562"
         }
       }
     },
@@ -406,6 +689,17 @@
     {
       "type": "movie",
       "movie": {
+        "title": "The Lord of the Rings: The Hunt for Gollum",
+        "year": 2027,
+        "ids": {
+          "tmdb": 1090869,
+          "imdb": "tt32328541"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Only the Brave",
         "year": 2017,
         "ids": {
@@ -428,6 +722,17 @@
     {
       "type": "movie",
       "movie": {
+        "title": "The City",
+        "year": 2023,
+        "ids": {
+          "tmdb": 1130730,
+          "imdb": "tt28000275"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Death of a Unicorn",
         "year": 2025,
         "ids": {
@@ -439,11 +744,43 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Kaamelott: The Second Chapter (Part II)",
+        "year": 2026,
+        "ids": {
+          "tmdb": 1076902
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Kaamelott: The Second Chapter (Part I)",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1076897,
+          "imdb": "tt34624872"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
         "year": 2024,
         "ids": {
           "tmdb": 870360,
           "imdb": "tt15352542"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Dish",
+        "year": 2026,
+        "ids": {
+          "tmdb": 1275779,
+          "imdb": "tt15047880"
         }
       }
     },
@@ -472,6 +809,17 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "ids": {
+          "tmdb": 330459,
+          "imdb": "tt3748528"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Thunderbolts*",
         "year": 2025,
         "ids": {
@@ -483,11 +831,77 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Star Wars",
+        "year": 1977,
+        "ids": {
+          "tmdb": 11,
+          "imdb": "tt0076759"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Toy Story 5",
+        "year": 2026,
+        "ids": {
+          "tmdb": 1084244,
+          "imdb": "tt29355505"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Final Destination Bloodlines",
         "year": 2025,
         "ids": {
           "tmdb": 574475,
           "imdb": "tt9619824"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "F1",
+        "year": 2025,
+        "ids": {
+          "tmdb": 911430,
+          "imdb": "tt16311594"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Conjuring: Last Rites",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1038392,
+          "imdb": "tt22898462"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Life of Chuck",
+        "year": 2025,
+        "ids": {
+          "tmdb": 842924,
+          "imdb": "tt12908150"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Jurassic World Rebirth",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1234821,
+          "imdb": "tt31036941"
         }
       }
     },
@@ -527,11 +941,55 @@
     {
       "type": "movie",
       "movie": {
+        "title": "Paddington in Peru",
+        "year": 2024,
+        "ids": {
+          "tmdb": 516729,
+          "imdb": "tt5822536"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Star Wars: Starfighter",
+        "year": 2027,
+        "ids": {
+          "tmdb": 1417668,
+          "imdb": "tt28069611"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Dracula",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1246049,
+          "imdb": "tt31434030"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
         "title": "Diablo",
         "year": 2025,
         "ids": {
           "tmdb": 1127110,
           "imdb": "tt27757546"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "28 Years Later",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1100988,
+          "imdb": "tt10548174"
         }
       }
     },
@@ -554,6 +1012,157 @@
         "ids": {
           "tmdb": 1151031,
           "imdb": "tt32246771"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Spaceballs 2",
+        "year": 0,
+        "ids": {
+          "tmdb": 1306322,
+          "imdb": "tt32659463"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Project Hail Mary",
+        "year": 2026,
+        "ids": {
+          "tmdb": 687163,
+          "imdb": "tt12042730"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "year": 2025,
+        "ids": {
+          "tmdb": 812583,
+          "imdb": "tt14364480"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Predator: Badlands",
+        "year": 2025,
+        "ids": {
+          "tmdb": 1242898,
+          "imdb": "tt31227572"
+        }
+      }
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "title": "Once Upon a Studio",
+        "year": 2023,
+        "ids": {
+          "tmdb": 1139087,
+          "imdb": "tt28035641"
+        }
+      }
+    },
+    {
+      "type": "show",
+      "show": {
+        "title": "Westworld",
+        "year": 2016,
+        "ids": {
+          "tvdb": 296762,
+          "imdb": "tt0475784",
+          "tmdb": 63247
+        }
+      }
+    },
+    {
+      "type": "show",
+      "show": {
+        "title": "Andor",
+        "year": 2022,
+        "ids": {
+          "tvdb": 393189,
+          "imdb": "tt9253284",
+          "tmdb": 83867
+        }
+      }
+    },
+    {
+      "type": "show",
+      "show": {
+        "title": "The Wingfeather Saga",
+        "year": 2022,
+        "ids": {
+          "tvdb": 421106,
+          "imdb": "tt20978970",
+          "tmdb": 215597
+        }
+      }
+    },
+    {
+      "type": "show",
+      "show": {
+        "title": "Kaamelott",
+        "year": 2005,
+        "ids": {
+          "tvdb": 79175,
+          "imdb": "tt0441059",
+          "tmdb": 11466
+        }
+      }
+    },
+    {
+      "type": "show",
+      "show": {
+        "title": "Sh\u014dgun",
+        "year": 2024,
+        "ids": {
+          "tvdb": 392573,
+          "imdb": "tt2788316",
+          "tmdb": 126308
+        }
+      }
+    },
+    {
+      "type": "show",
+      "show": {
+        "title": "Jonathan Strange & Mr Norrell",
+        "year": 2015,
+        "ids": {
+          "tvdb": 268581,
+          "imdb": "tt2548418",
+          "tmdb": 62717
+        }
+      }
+    },
+    {
+      "type": "show",
+      "show": {
+        "title": "Alien: Earth",
+        "year": 2025,
+        "ids": {
+          "tvdb": 458912,
+          "imdb": "tt13623632",
+          "tmdb": 157239
+        }
+      }
+    },
+    {
+      "type": "show",
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909
         }
       }
     }
